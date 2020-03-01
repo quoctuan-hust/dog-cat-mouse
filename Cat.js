@@ -6,4 +6,4 @@ function Cat(){
  	this.stomach.push(mouse);
  }
  
-module.exports = Cat; 
+module.exports = Cat;  
